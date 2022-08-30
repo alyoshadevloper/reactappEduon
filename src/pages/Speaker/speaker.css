@@ -1,0 +1,12 @@
+.speaker .courses {
+    padding-top: 100px;
+}
+
+/* .css-19kzrtu {
+    padding: 24px;
+} */
+@media (max-width:576px) {
+    .speaker .courses {
+        padding-top: 80px;
+    }
+}

@@ -1,0 +1,12 @@
+.spMycourses .courses{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.spMycourses .loadedCourses .tableList {
+    padding-bottom: 20px !important;
+}
+@media (max-width:576px) {
+    .spMycourses{
+        padding-top: 90px;
+    }
+}
